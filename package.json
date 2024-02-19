@@ -21,7 +21,7 @@
     "lozad": "^1.16.0",
     "prism-theme-vars": "^0.2.4",
     "vite-ssg": "^0.23.4",
-    "vue": "^3.3.7",
+    "vue": "^3.4.19",
     "vue-gtag": "^2.0.1",
     "vue-router": "^4.2.5",
     "vuefire": "^3.1.18"
